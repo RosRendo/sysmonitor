@@ -1,0 +1,9 @@
+# Core UI & Terminal Dashboard
+rich>=13.0.0
+
+# Testing Framework
+pytest>=7.4.0
+
+# System metric benchmarking (Module comparison)
+psutil>=5.9.0
+
